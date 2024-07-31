@@ -32,7 +32,7 @@ To run the portfolio website locally, follow these steps:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd your-portfolio-repo
+   cd Portfolio
    ```
 
 3. **Open `index.html` in Your Browser:**

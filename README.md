@@ -1,4 +1,5 @@
 # Personal Portfolio Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71ab2821-69f8-4d00-bbd7-3c31c82987e2/deploy-status)](https://app.netlify.com/sites/varmakollu/deploys)
 
 Welcome to my personal portfolio website! This repository contains the source code for my professional online presence, where I showcase my work, skills, and projects in cybersecurity and Web3 development. The site is designed to reflect my expertise and passion in these fields, with a focus on security, innovation, and user experience.
 
